@@ -30,4 +30,8 @@
   .input-container input {
     width: 100%;
   }
+  .icon{
+    left: 140px;
+    top: -30px;
+  }
 }
